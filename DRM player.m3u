@@ -1,4 +1,50 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",O'zbekiston
+https://vod.splay.uz/live_splay/original/Uzbekiston/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Yoshlar HD
+https://vod.splay.uz/live_splay/original/YoshlarHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Toshkent HD
+https://vod.splay.uz/live_splay/original/Toshkent/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Dunyo Bo'ylab
+https://vod.splay.uz/live_splay/original/Dunyoboylab_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",O'zbekiston tarixi
+https://vod.splay.uz/live_splay/original/Uzbekiston-TarixiHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Kinoteatr
+https://vod.splay.uz/live_splay/original/Kinoteatr_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Navo
+https://vod.splay.uz/live_splay/original/Navo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",TTV Musiqa
+https://vod.splay.uz/live_splay/original/TTV_Musiqa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Mahalla
+https://vod.splay.uz/live_splay/original/Mahalla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Bolajon
+https://vod.splay.uz/live_splay/original/Bolajon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Futbol TV
+https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",FTV
+https://vod.splay.uz/live_splay/original/FTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Муз-ТВ (O'zbekiston)
+https://vod.splay.uz/live_splay/original/Muz_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Zo'r TV HD
+https://vod.splay.uz/live_splay/original/Zor_TVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Milliy TV
+https://vod.splay.uz/live_splay/original/Milly_TVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",My5
+https://vod.splay.uz/live_splay/original/Mening_YurtimHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Nurafshon TV
+https://vod.splay.uz/live_splay/original/Nurafshon_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Dasturxon TV
+https://vod.splay.uz/live_splay/original/DasturxonTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",MyDayTV
+https://vod.splay.uz/live_splay/original/Myday/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Lux TV
+https://vod.splay.uz/live_splay/original/LuxTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Tasix-Media
+https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Makon TV
+https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Узбек ТВ" tvg-id="simpleTVFakeEpgId",Renessans TV
+https://vod.splay.uz/live_splay/original/Renessans_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://ip-tv.dev/images/ico/pervysd.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055",Первый канал
 http://ru.seetv.cc/play/243/CBF56A3558877BB/video.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055",Первый канал HD
