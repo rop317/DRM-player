@@ -1,61 +1,28 @@
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Biz TV UZ
-http://57.128.196.110/11400/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Biz Cinema UZ
-http://57.128.196.110/11401/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Biz Music UZ
-http://57.128.196.110/11402/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",ZOR TV
-http://57.128.196.110/11403/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/My Zen TV HD.png" tvg-id="simpleTVFakeEpgId",My 5 HD
-http://57.128.196.110/11404/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Ozbekiston
-http://57.128.196.110/11405/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Eurosport 1.png" tvg-id="simpleTVFakeEpgId",Sport UZ HD
-http://57.128.196.110/11406/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",YOSHLAR
-http://57.128.196.110/11407/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",TOSHKENT
-http://57.128.196.110/11408/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="simpleTVFakeEpgId",BOLAJON
-http://57.128.196.110/11409/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Sevimli TV
-http://57.128.196.110/11410/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",NAVO
-http://57.128.196.110/11411/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Namangan
-http://57.128.196.110/11412/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",MAHALLA
-http://57.128.196.110/11413/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",KINOTEATR
-http://57.128.196.110/11414/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Ozbekiston Tarixi
-http://57.128.196.110/11415/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Dunyo boylab
-http://57.128.196.110/11416/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Star Family HD.png" tvg-id="simpleTVFakeEpgId",MilliyTV
-http://57.128.196.110/11417/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",NURAFSHON TV
-http://57.128.196.110/11418/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Renessans TV
-http://57.128.196.110/11419/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Makon HD
-http://57.128.196.110/11420/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",ITV CINEMA HD
-http://57.128.196.110/10243/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",FTV UZ
-http://57.128.196.110/11806/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Qiziq HD
-http://57.128.196.110/11807/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",OZBEKISTON 24
-http://57.128.196.110/11800/index.m3u8?token=BF3A82BDF48F
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Star Family HD.png" tvg-id="simpleTVFakeEpgId",Milliy TV
+http://serv1.milliy.tv/hls/index_480.m3u8
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",MY5TV International
+https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Biz TV
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Biz Cinema
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Biz Music
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Madaniyat va Marifat
+https://st1.uzdigital.tv/Madaniyat_va_Marifat/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Uzbekiston 24
+https://st1.uzdigital.tv/Uzb24/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",MakonTV
+https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Toshkent HD
+https://st1.uzdigital.tv/Toshkent/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Futbol TV
-http://57.128.196.110/11801/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",S IKBOL HD
-http://57.128.196.110/11802/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Luxury HD.png" tvg-id="simpleTVFakeEpgId",LUX TV HD
-http://57.128.196.110/11803/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/FashionTv.png" tvg-id="simpleTVFakeEpgId",NTV
-http://57.128.196.110/11804/index.m3u8?token=BF3A82BDF48F
+https://st1.uzdigital.tv/FutbolTV/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/RTTV HD.png" tvg-id="simpleTVFakeEpgId",TTV Musiqa
+https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",MiMi
+https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="simpleTVFakeEpgId",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Россия 1.png" tvg-id="simpleTVFakeEpgId",Россия 1
@@ -390,3 +357,9 @@ http://46.53.208.4:80/live/6030.m3u8
 http://46.53.208.4:80/live/7001.m3u8
 #EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1
 http://46.53.208.4:80/live/8000.m3u8
+#EXTINF:-1 group-title="",Zo'r tv
+https://stream1-zorplay.platform24.tv/hlsjwt/a1636be14985f79dd9dd1c012cf73691ca4abbce-4783-0-zor641693-5-628273541-1776369662-e128-rbG5y4HzvEVQDWSPtyncETb_qLsxiOEnRcITM91Ohkg/index.m3u8
+#EXTINF:-1 group-title="",Zo'r Tv
+https://ser1.musical.uz/zor-tv-uz/tracks-v1a1/mono.m3u8?remote=82.215.101.144&token=18d5521121bdb2cdf1e6197643f7275ad57abcd7-eb906bb38c120b64bc8739851ad3d949-1776380318-1776369518
+#EXTINF:-1 group-title="",Zo'r Tv
+https://ser3.musical.uz/zor-tv-uz/tracks-v1a1/mono.m3u8?remote=82.215.101.144&token=81ee10589df3453596763babef783cd5b9260eed-dcaa2d4d1f70def91372a5e3790aa0da-1776381519-1776370719
